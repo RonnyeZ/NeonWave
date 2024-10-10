@@ -57,7 +57,7 @@ body::before {
 }
 
 .terminal {
-    width: 70%;
+    width: 75%;
     background: rgba(0, 0, 0, 0.0); /*Fundo do Terminal deve ser tranparente*/
     padding: 20px;
     border-radius: 8px;
@@ -138,7 +138,7 @@ body::before {
 }
 
 .system-data {
-    width: 30%;
+    width: 25%;
     min-width: 25%;
     background: rgba(0, 0, 0, 0.0); /*Fundo do Data System deve ser tranparente*/
     padding: 20px;
