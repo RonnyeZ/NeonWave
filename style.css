@@ -13,7 +13,7 @@ body {
 
 body::before {
     content: "";
-    background: url(1920x1080-38.gif) no-repeat center/cover;
+    background: url(img1920x1080-38.gif) no-repeat center/cover;
     opacity: 0.1; /* Define a opacidade*/
     position: absolute; 
     top: 0;
