@@ -25,7 +25,7 @@ body::before {
 
 .container {
     width: 90%;
-    height: 93vh;
+    height: 90vh;
     display: flex;
     gap: 20px; /*Espaço entre o terminal e o data system*/
     background: rgba(0, 0, 0, 0.5);
