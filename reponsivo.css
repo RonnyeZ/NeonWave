@@ -1,0 +1,605 @@
+@media (min-width: 2300px) and (max-height: 1536px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 32px; /*Anterior 32px*/     
+    }
+}
+
+@media (min-width: 2300px) and (max-height: 1140px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 28px; /*Anterior 32px*/     
+    }
+    .system-data {
+        margin-top: 100px; /*Padrão 100px*/
+        font-size: 28px; /*Padrão 32px*/
+    }
+    .data-block h2 {
+        font-size: 44px; /*Padrão 48px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (min-width: 2300px) and (max-height: 1000px) {
+
+    .code-area {
+        max-height: 55vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 24px; /*Anterior 28px*/     
+    }
+    .system-data {
+        margin-top: 100px; /*Anterior 100px*/
+        font-size: 24px; /*Anterior 28px*/
+    }
+    .data-block h2 {
+        font-size: 40px; /*Padrão 44px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (min-width: 2300px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 60vh*/
+    }
+    .input-area input {
+        font-size: 20px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 100px; /*Anterior 100px*/
+        font-size: 20px; /*Anterior 24px*/
+    }
+    .data-block h2 {
+        font-size: 36px; /*Padrão 40px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (min-width: 2300px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 45vh !important; /*Anterior 55vh*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 20px*/     
+    }
+
+}
+
+@media (max-width: 2300px) {
+
+    .title{
+        font-size: 32px; /*Padrão 36px*/
+        margin-left: 400px;  /*Padrão 400px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area {
+        max-height: 65vh !important; /*Padrão 80vh*/
+    }
+    .line {
+        font-size: 28px; /*Padrão 32px*/
+    }
+    .input-area input {
+        font-size: 32px; /*Padrão 36px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 100px; /*Padrão 100px*/
+        font-size: 28px; /*Padrão 32px*/
+    }
+    .data-block h2 {
+        font-size: 44px; /*Padrão 48px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 2300px) and (max-height: 1140px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 28px; /*Anterior 32px*/     
+    }
+    .system-data {
+        margin-top: 90px; /*Anterior 100px*/
+        font-size: 25px; /*Anterior 28px*/
+    }
+    .data-block h2 {
+        font-size: 41px; /*Anterior 44px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 2300px) and (max-height: 1000px) {
+
+    .code-area {
+        max-height: 55vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 24px; /*Anterior 28px*/     
+    }
+    .system-data {
+        margin-top: 85px; /*Anterior 90px*/
+        font-size: 23px; /*Anterior 25px*/
+    }
+    .data-block h2 {
+        font-size: 39px; /*Anterior 41px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 2300px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 60vh*/
+    }
+    .input-area input {
+        font-size: 20px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 80px; /*Anterior 85px*/
+        font-size: 21px; /*Anterior 23px*/
+    }
+    .data-block h2 {
+        font-size: 37px; /*Anterior 39px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 2300px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 45vh !important; /*Anterior 55vh*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 20px*/     
+    }
+    .system-data {
+        margin-top: 75px; /*Anterior 80px*/
+        font-size: 19px; /*Anterior 21px*/
+    }
+    .data-block h2 {
+        font-size: 35px; /*Anterior 37px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+/*--------------------------------------------------*/
+
+@media (max-width: 1980px) {
+
+    .title{
+        font-size: 28px; /*Anterior 32px*/
+        margin-left: 300px;  /*Anterior 400px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area{
+        max-height: 65vh !important;
+    }
+    .line {
+        font-size: 24px; /*Anterior 28px*/
+    }
+    .input-area input {
+        font-size: 28px; /*Anterior 32px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 100px; /*Anterior 100px*/
+        font-size: 23px; /*Anterior 28px*/
+    }
+    .data-block h2 {
+        font-size: 40px; /*Anterior 44px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+@media (max-width: 1980px) and (max-height: 1140px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 28px; /*Anterior 28px*/     
+    }
+    .system-data {
+        margin-top: 90px; /*Anterior 100px*/
+        font-size: 21px; /*Anterior 24px*/
+    }
+    .data-block h2 {
+        font-size: 37px; /*Anterior 40px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1980px) and (max-height: 1000px) {
+
+    .code-area {
+        max-height: 55vh !important; /*Anterior 60vh*/
+    }
+    .input-area input {
+        font-size: 24px; /*Anterior 28px*/     
+    }
+    .system-data {
+        margin-top: 85px; /*Anterior 90px*/
+        font-size: 19px; /*Anterior 21px*/
+    }
+    .data-block h2 {
+        font-size: 35px; /*Anterior 37px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1980px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 55vh*/
+    }
+    .input-area input {
+        font-size: 20px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 80px; /*Anterior 85px*/
+        font-size: 17px; /*Anterior 19px*/
+    }
+    .data-block h2 {
+        font-size: 33px; /*Anterior 35px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1980px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 45vh !important; /*Anterior 50vh*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 20px*/     
+    }
+    .system-data {
+        margin-top: 75px; /*Anterior 80px*/
+        font-size: 15px; /*Anterior 17px*/
+    }
+    .data-block h2 {
+        font-size: 31px; /*Anterior 33px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+/*-----------------------------------------------------*/
+
+@media (max-width: 1630px) {
+
+    .title{
+        font-size: 24px; /*Anterior 28px*/
+        margin-left: 230px;  /*Anterior 300px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area {
+        max-height: 65vh !important;
+    }
+    .line {
+        font-size: 20px; /*Anterior 24px*/
+    }
+    .input-area input {
+        font-size: 24px; /*Anterior 28px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 90px; /*Anterior 100px*/
+        font-size: 19px; /*Anterior 23px*/
+    }
+    .data-block h2 {
+        font-size: 36px; /*Anterior 40px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1630px) and (max-height: 1000px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 20px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 90px; /*Anterior 90px*/
+        font-size: 19px; /*Anterior 19px*/
+    }
+    .data-block h2 {
+        font-size: 36px; /*Anterior 36px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1630px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 55vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 18px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 90px; /*Anterior 90px*/
+        font-size: 17px; /*Anterior 19px*/
+    }
+    .data-block h2 {
+        font-size: 32px; /*Anterior 36px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1630px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 24px*/     
+    }
+    .system-data {
+        margin-top: 90px; /*Anterior 90px*/
+        font-size: 15px; /*Anterior 19px*/
+    }
+    .data-block h2 {
+        font-size: 28px; /*Anterior 36px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+/*---------------------------------------------------*/
+
+@media (max-width: 1380px) {
+
+    .title{
+        font-size: 20px; /*Anterior 24px*/
+        margin-left: 170px;  /*Anterior 230px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area{
+        max-height: 70vh !important;
+    }
+    .line {
+        font-size: 16px; /*Anterior 20px*/
+    }
+    .input-area input {
+        font-size: 20px; /*Anterior 24px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 70px; /*Anterior 90px*/
+        font-size: 16px; /*Anterior 19px*/
+    }
+    .data-block h2 {
+        font-size: 30px; /*Anterior 36px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1380px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 20px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 16px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 30px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1380px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 20px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 14px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 28px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1380px) and (max-height: 600px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 70vh*/
+    }
+    .input-area input {
+        font-size: 12px; /*Anterior 20px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 12px; /*Anterior 14px*/
+    }
+    .data-block h2 {
+        font-size: 26px; /*Anterior 28px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+/*---------------------------------------------------*/
+
+@media (max-width: 1140px) {
+
+    .title{
+        font-size: 16px; /*Anterior 20px*/
+        margin-left: 110px;  /*Anterior 170px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area {
+        max-height: 65vh !important; /*Anterior 70vh*/
+    }
+    .line {
+        font-size: 12px; /*Anterior 16px*/
+    }
+    .input-area input {
+        font-size: 16px; /*Anterior 20px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 12px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 24px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1140px) and (max-height: 860px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 16px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 12px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 24px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1140px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 16px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 10px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 22px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 1140px) and (max-height: 600px) {
+
+    .code-area {
+        max-height: 55vh !important; /*Anterior 65vh*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 16px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 10px; /*Anterior 16px*/
+    }
+    .data-block h2 {
+        font-size: 22px; /*Anterior 30px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+/*--------------------------------------------------*/
+
+@media (max-width: 900px) {
+
+    .title{
+        font-size: 14px; /*Anterior 16px*/
+        margin-left: 50px;  /*Anterior 110px*/
+        -webkit-text-stroke-width: 1px;
+    }    
+    .terminal {
+        width: 75%;
+    }
+    .code-area {
+        max-height: 60vh !important; /*Anterior 65vh*/
+    }
+    .line {
+        font-size: 8px; /*Anterior 12px*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 16px*/     
+    }
+    .system-data {
+        width: 25%;
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 8px; /*Anterior 12px*/
+    }
+    .data-block h2 {
+        font-size: 20px; /*Anterior 24px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 900px) and (max-height: 740px) {
+
+    .code-area {
+        max-height: 60vh !important; /*Anterior 60vh*/
+    }
+    .input-area input {
+        font-size: 14px; /*Anterior 14px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 8px; /*Anterior 8px*/
+    }
+    .data-block h2 {
+        font-size: 20px; /*Anterior 20px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}
+
+@media (max-width: 900px) and (max-height: 600px) {
+
+    .code-area {
+        max-height: 50vh !important; /*Anterior 60vh*/
+    }
+    .input-area input {
+        font-size: 10px; /*Anterior 14px*/     
+    }
+    .system-data {
+        margin-top: 70px; /*Anterior 70px*/
+        font-size: 8px; /*Anterior 8px*/
+    }
+    .data-block h2 {
+        font-size: 20px; /*Anterior 20px*/
+        -webkit-text-stroke-width: 1px;
+    }
+}

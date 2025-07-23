@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberpunk Hacking Interface</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="reponsivo.css">
+</head>
+
+<!--
+    Ideias pro Design:
+    - afastar o Terminal e o System Data para as bordar da tela, ter um afastamento entre eles;
+    - Deixar o fundo preto, que conecta os dois, transparente;
+    - O background eu vou colocar algum gif retro de um chão quadrado verde se movimentando ou algo similar, como glicths ou codigos caindo ao fundo;
+
+    Ideias pro jogo:
+    - Criar varias copias dessa pagina, porem cada uma sendo diferente uma da outra, alem disso, cada uma teria uma senha diferente, vindas de uma folha com um conjunto de senhas;
+    - A cada teste bem sucedido de TECNOLOGIA, os jogadores receberão uma dica do que a sua senha não possui (como caracteres, numeros, etc.), até que cada uma seja resolvida;
+    - Separar as paginas cada uma por um nome diferente (Gelo, Quente, Globo, BioTech, Gatinhos)
+-->
+
+<body>
+    <div class="container">
+        <div class="terminal">
+            <div class="title">
+                <h1>HACKING IN PROCESSES</h1>
+            </div>
+            <img class ="bug" src="../imagens/Glitch 800x451.gif" alt="Glitch">
+            <div class="code-area">
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">sudo apt-get update</span>
+                </div>
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">nmap -sT 192.168.1.1</span>
+                </div>
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">python3 exploit.py</span>
+                </div>
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">ls -la</span>
+                </div>
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">fotos de gatinho.txt</span>
+                </div>
+                <div class="line">
+                    <span class="command">Biological_Incorporation_Tech@root-System:</span>
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span class="command1">System Initialized</span>
+                </div>
+                <div class="line">
+                    <span class="path">~/INICIALIZATION</span>
+                    <span class="input">$ </span>
+                    <span>
+                        <span class="command1">Defina seu:</span> <span style="color: #00FFFF;">Nome de Usuário</span>
+                    </span>
+                </div>
+            </div>
+            <div class="input-area">
+                <input type="text" name="chat" placeholder="Enter command...">
+            </div>
+        </div>
+        <div class="system-data">
+            <div class="data-block">
+                <h2>System Data</h2>
+                <ul>
+                    <li><strong>IP Address:</strong> 192.168.1.1</li>
+                    <li><strong>Operating System:</strong> CyberOS v8.11</li>
+                    <li><strong>CPU:</strong> Neutrum Core 8E64</li>
+                    <li><strong>Memory:</strong> 256PB</li>
+                    <li><strong>Security Level:</strong> Moderated High</li>
+                </ul>
+            </div>
+            <div class="data-block">
+                <h2>Active Processes</h2>
+                <ul>
+                    <li><strong>Process 1:</strong> <span class="processo1">Security Protocol v1.3</span></li>
+                    <li><strong>Process 2:</strong> <span class="processo2">Network Monitoring</span></li>
+                    <li><strong>Process 3:</strong> <span class="processo3">Data Encryption</span></li>
+                    <li><strong>Process 4:</strong> <span class="processo4">System Logs</span></li>
+                    <li><strong>Process 5:</strong> <span class="processo5">User Authentication</span></li>
+                </ul>
+            </div>
+            <div class="next-step">
+                
+            </div>
+        </div>
+    </div>
+    <script>
+        function capturarValor() {
+            // Pega o valor digitado pelo usuário
+            let usuario = document.getElementById('userInput').value;
+        }
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
